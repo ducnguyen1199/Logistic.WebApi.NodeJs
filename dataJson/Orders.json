@@ -1,0 +1,22 @@
+[
+    {
+        "idCustomer": ObjectId("6009641482d64d85c095d39c"),
+        "idUser": ObjectId("600962ce82d64d85c095d398"),
+        "idProcess": ObjectId("600966ac82d64d85c095d3ae"),
+        "idStatus": ObjectId("600966ac82d64d85c095d3a6"),
+        "total": 999.0,
+        "paid": false,
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    },
+    {
+        "idCustomer": ObjectId("6009641482d64d85c095d39c"),
+        "idUser": ObjectId("600962ce82d64d85c095d398"),
+        "idProcess": ObjectId("600966ac82d64d85c095d3af"),
+        "idStatus": ObjectId("600966ac82d64d85c095d3aa"),
+        "total": 999.0,
+        "paid": true,
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "idRole": ObjectId("600960e182d64d85c095d396"),
+        "userName": "staff01",
+        "hashPassword": "$2a$08$vj/8fY70VkEmVab/czGJ8euRvsGo0q0T5ETDKUusCXMXytYXeCKkC",
+        "fullName": "staff01",
+        "avatar": "",
+        "birthDay": ISODate("2021-01-13T03:00:00.000Z"),
+        "phoneNumber": 0123456789,
+        "email": "email@gmail.com",
+        "status": "inactive",
+        "lastLogin": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    },
+    {
+        "idRole": ObjectId("600960e182d64d85c095d396"),
+        "userName": "staff02",
+        "hashPassword": "staff02",
+        "fullName": "staff02",
+        "avatar": "",
+        "birthDay": ISODate("2021-01-13T03:00:00.000Z"),
+        "phoneNumber": 0123456789,
+        "email": "email@gmail.com",
+        "status": "active",
+        "lastLogin": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    },
+    {
+        "idRole": ObjectId("600960e182d64d85c095d397"),
+        "userName": "admin01",
+        "hashPassword": "$2a$08$vj/8fY70VkEmVab/czGJ8euRvsGo0q0T5ETDKUusCXMXytYXeCKkC",
+        "fullName": "admin01",
+        "avatar": "",
+        "birthDay": ISODate("2021-01-13T03:00:00.000Z"),
+        "phoneNumber": 0123456789,
+        "email": "email@gmail.com",
+        "status": "inactive",
+        "lastLogin": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    },
+    {
+        "idRole": ObjectId("600960e182d64d85c095d397"),
+        "userName": "admin02",
+        "hashPassword": "admin02",
+        "fullName": "admin02",
+        "avatar": "",
+        "birthDay": ISODate("2021-01-13T03:00:00.000Z"),
+        "phoneNumber": 0123456789,
+        "email": "email@gmail.com",
+        "status": "active",
+        "lastLogin": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    }
+]

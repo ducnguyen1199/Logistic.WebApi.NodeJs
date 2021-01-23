@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Grab",
+        "phoneNumber": 0123456789,
+        "email": "email@gmail.com",
+        "feePer1Km": 10.0,
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    },
+    {
+        "name": "Gojeck",
+        "phoneNumber": 0123456789,
+        "email": "email@gmail.com",
+        "feePer1Km": 10.0,
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    },
+    {
+        "name": "GiaoHangNhanh",
+        "phoneNumber": 0123456789,
+        "email": "email@gmail.com",
+        "feePer1Km": 10.0,
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    },
+    {
+        "name": "GiaoHangTietKiem",
+        "phoneNumber": 0123456789,
+        "email": "email@gmail.com",
+        "feePer1Km": 10.0,
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    }
+]

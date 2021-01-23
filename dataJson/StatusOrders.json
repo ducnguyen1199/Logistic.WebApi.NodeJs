@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Giao hàng",
+        "status":[
+            {
+                "_id": ObjectId(),
+                "name": "Nhận đơn"
+            },
+            {
+                "_id": ObjectId(),
+                "name": "Xác nhận"
+            },
+            {
+                "_id": ObjectId(),
+                "name": "Xuất kho"
+            },
+            {
+                "_id": ObjectId(),
+                "name": "Hoàn thành"
+            }
+        ]
+    },
+    {
+        "name": "Huỷ hàng",
+        "status":[
+            {
+                "_id": ObjectId(),
+                "name": "Nhận đơn"
+            },
+            {
+                "_id": ObjectId(),
+                "name": "Xác nhận"
+            },
+            {
+                "_id": ObjectId(),
+                "name": "Lấy hàng"
+            },
+            {
+                "_id": ObjectId(),
+                "name": "Hoàn thành"
+            }
+        ]
+    }
+]

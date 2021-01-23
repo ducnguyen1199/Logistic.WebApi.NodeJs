@@ -1,0 +1,14 @@
+[
+    {
+        "fullName": "khachhang01",
+        "phoneNumber": 0123456789,
+        "address": "số 1, quận 1, tp Hồ Chí Minh",
+        "Type": "Vip"
+    },
+    {
+        "fullName": "khachhang02",
+        "phoneNumber": 0123456789,
+        "address": "số 1, quận 1, tp Hồ Chí Minh",
+        "Type": "Thường"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "idOrder": ObjectId("600969f782d64d85c095d3b0"),
+        "idProduct": ObjectId("60095e7482d64d85c095d38e"),
+        "count": 5
+    },
+    {
+        "idOrder": ObjectId("600969f782d64d85c095d3b0"),
+        "idProduct": ObjectId("60095e7482d64d85c095d390"),
+        "count": 3
+    },
+    {
+        "idOrder": ObjectId("600969f782d64d85c095d3b1"),
+        "idProduct": ObjectId("60095e7482d64d85c095d38f"),
+        "count": 1
+    }
+]

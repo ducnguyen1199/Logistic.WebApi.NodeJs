@@ -1,0 +1,58 @@
+[
+    {
+        "idCategory": ObjectId("60095a4882d64d85c095d388"),
+        "name": "Áo sơ mi nam trơn không nhăn LADOS-523",
+        "price": 99.000,
+        "provide": "Lados",
+        "img": [],
+        "description": "Đây là phần mô tả.",
+        "rating": 5.0,
+        "countRating": 47,
+        "bought": 50,
+        "inventory": 100,
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    },
+    {
+        "idCategory": ObjectId("60095a4882d64d85c095d388"),
+        "name": "Áo sơ mi nam tay dài trơn đủ màu có size big LADOS-523, vải lụa mềm mát",
+        "price": 99.000,
+        "provide": "Lados",
+        "img": [],
+        "description": "Đây là phần mô tả.",
+        "rating": 5.0,
+        "countRating": 47,
+        "bought": 50,
+        "inventory": 100,
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    },
+    {
+        "idCategory": ObjectId("60095a4882d64d85c095d388"),
+        "name": "Áo sơ mi nam trơn tay ngắn LADOS-707, đủ màu , chất lụa không nhăn",
+        "price": 99.000,
+        "provide": "Lados",
+        "img": [],
+        "description": "Đây là phần mô tả.",
+        "rating": 5.0,
+        "countRating": 47,
+        "bought": 50,
+        "inventory": 100,
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    },
+    {
+        "idCategory": ObjectId("60095a4882d64d85c095d388"),
+        "name": "Áo sơ mi nam trơn đủ màu cao cấp tay dài LADOS-4523,sơ mi không nhăn",
+        "price": 99.000,
+        "provide": "Lados",
+        "img": [],
+        "description": "Đây là phần mô tả.",
+        "rating": 5.0,
+        "countRating": 47,
+        "bought": 50,
+        "inventory": 100,
+        "dateCreate": ISODate("2021-01-13T03:00:00.000Z"),
+        "dateUpdate": ISODate("2021-01-13T03:00:00.000Z")
+    }
+]

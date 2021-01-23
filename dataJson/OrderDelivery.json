@@ -1,0 +1,14 @@
+[
+    {
+        "idOrder": ObjectId("600969f782d64d85c095d3b0"),
+        "idDelivery": ObjectId("6009604582d64d85c095d392"),
+        "distance": 10,
+        "deliveryTime": ISODate("2021-01-13T03:00:00.000Z")
+    },
+    {
+        "idOrder": ObjectId("600969f782d64d85c095d3b1"),
+        "idDelivery": ObjectId("6009604582d64d85c095d393"),
+        "distance": 10,
+        "deliveryTime": ISODate("2021-01-13T03:00:00.000Z")
+    }
+]
